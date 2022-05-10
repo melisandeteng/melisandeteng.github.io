@@ -1,12 +1,6 @@
-- name: Publications
-  link: /publications.html
-- name: Teaching
-  link: /teaching.html
-- name: Projects
-  link: /projects.html
-- name: CV
-  link: /cv.html
-- name: Resources
-  link: /resources/publication-venues-ml.html
 - name: About me
   link: /about.html
+- name: Publications
+  link: /publications.html
+- name: Blog
+  link: /blog.html
