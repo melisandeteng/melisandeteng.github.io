@@ -1,3 +1,37 @@
+- title: "SatBird: a Dataset for Bird Species Distribution Modeling using Remote Sensing and Citizen Science Data"
+  authors:
+    - Mélisande Teng
+    - Amna Elmustafa
+    - Benjamin Akera
+    - Yoshua Bengio
+    - Hager Radi Abdelwahed
+    - Hugo Larochelle
+    - David Rolnick
+  year: 2023
+  journal: Conference on Neural Information Processing Systems (NeurIPS) 2023, Datasets and Benchmarks track
+  tags:
+    - tag: project website
+      link: https://satbird.github.io
+    - tag: arXiv
+      link: https://arxiv.org/abs/2311.00936
+    - tag: OpenReview
+      link: https://openreview.net/forum?id=Vn5qZGxGj3
+
+
+- title: "Bird Distribution Modelling using Remote Sensing and Citizen Science Data"
+  authors:
+    - Mélisande Teng
+    - Amna Elmustafa
+    - Benjamin Akera
+    - Hugo Larochelle
+    - David Rolnick
+  year: 2023
+  journal: Tackling Climate Change with Machine Learning workshop at the International Conference on Learning Representations (ICLR)
+  tags:
+    - tag: arXiv
+      link: https://arxiv.org/abs/2305.01079
+   
+
 - title: "ClimateGAN: Raising climate change awareness by generating images of floods"
   authors:
     - Victor Schmidt
