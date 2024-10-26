@@ -1,6 +1,6 @@
 
 I am PhD student at [Université de Montréal](https://www.umontreal.ca/)/[Mila](https://mila.quebec/) working on applications of machine learning for biodiversity conservation and to tackle climate change under the supervision of Prof. [Yoshua Bengio](https://yoshuabengio.org/),Prof. [Hugo Larochelle](https://mila.quebec/en/person/hugo-larochelle/) and Prof. [David Rolnick](https://davidrolnick.com/). 
-My current research focuses on biodiversity monitoring using remote sensing data and citizen science data. 
+My current research focuses on biodiversity monitoring using remote sensing data and citizen science data. I am particularly interested in species distribution modeling and forest monitoring.
 With a wonderful [team](https://thisclimatedoesnotexist.com/about#team), I also worked on [ThisClimateDoesNotExist.com](https://thisclimatedoesnotexist.com/), a website to visualise the impacts of climate change in our own backyard.
 I am also happy to be contributing to [Future Earth Canada](https://montreal.futureearth.org/)'s initiatives, including work on [Nature-based climate solutions](https://www.indigenousclimateaction.com/entries/new-nature-based-climate-solutions-report-sneak-peek) with [Indigenous Climate Action](https://www.indigenousclimateaction.com) and with the [Coalition for Digital Environmental Sustainability](https://www.sparkblue.org/CODES#:~:text=The%20Coalition%20for%20Digital%20Environmental,for%20sustainability%20and%20climate%20action.).
 
