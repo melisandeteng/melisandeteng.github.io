@@ -1,3 +1,55 @@
+- title: "BATIS: Bayesian Approaches for Targeted Improvement of Species Distribution Models"
+  authors:
+    - Catherine Villeneuve
+    - Benjamin Akera
+    - Mélisande Teng
+    - David Rolnick
+  year: 2026
+  journal: AAAI 2026, social impact track. 
+      
+- title: "Bringing SAM to new heights: leveraging elevation data for tree crown segmentation from drone imagery"
+  authors:
+    - Mélisande Teng
+    - Arthur Ouaknine
+    - Etienne Laliberté
+    - Yoshua Bengio
+    - David Rolnick
+    - Hugo Larochelle
+  year: 2025
+  journal: Conference on Neural Information Processing Systems (NeurIPS) 2025
+    - tag: Paper
+      link: https://openreview.net/pdf?id=1vSLxdJNq8
+    - tag: OpenReview
+      link: https://openreview.net/forum?id=1vSLxdJNq8
+      
+- title: "Human-Centered AI for Sustainability and Agriculture"
+  authors:
+    - Jennifer Garard
+    - Allison Cohen
+    - Ernest Habanabakize
+    - Erin Gleeson
+    - Mélisande Teng
+    - Gaétan Marceau Caron
+    - Daoud Piracha
+    - Rosette Lukonge Savanna
+    - Kinsie Rayburn
+    - Melissa Rosa
+    - Kaspar Kundert
+    - Éliane Ubalijoro
+  year: 2024
+  journal: Book chapter in Human-Centered AI, a multidisciplinary perspective for policy-makers, auditors and users.
+      
+- title: "Innovation inclusive en matière d'intelligence artificielle: de la fragmentation à l'unité"
+  authors:
+    - Éliane Ubalijoro
+    - Guylaine Poisson
+    - Nahla Curran
+    - Kyungim Baek
+    - Nilufar Sabet-Kassouf
+    - Mélisande Teng
+  year: 2023
+  journal: Angles morts de la gouvernance de l'IA
+  
 - title: "SatBird: a Dataset for Bird Species Distribution Modeling using Remote Sensing and Citizen Science Data"
   authors:
     - Mélisande Teng
@@ -52,6 +104,7 @@
       link: https://arxiv.org/abs/2110.02871
     - tag: OpenReview
       link: https://openreview.net/forum?id=EZNOb_uNpJk
+      
 - title: "Using Simulated Data to Generate Images of Climate Change"
   authors:
     - Gautier Cosne
